@@ -1,0 +1,82 @@
+INFO:root:Starting weather
+INFO:root:Fetching Gainesville weather.
+INFO:root:Starting weather
+INFO:root:Fetching Gainesville weather.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.wunderground.com
+DEBUG:urllib3.connectionpool:http://api.wunderground.com:80 "GET /api/f77ce6503c744246/forecast10day/q/FL/Gainesville.json HTTP/1.1" 200 2282
+DEBUG:root:Response: 200
+INFO - Starting weather
+INFO - Fetching Gainesville weather.
+DEBUG - Starting new HTTP connection (1): api.wunderground.com
+DEBUG - http://api.wunderground.com:80 "GET /api/f77ce6503c744246/forecast10day/q/FL/Gainesville.json HTTP/1.1" 200 2282
+DEBUG - Response: 200
+2017-12-21 21:21:10,822 - INFO - Starting weather
+2017-12-21 21:21:10,823 - INFO - Fetching Gainesville weather.
+2017-12-21 21:21:10,870 - DEBUG - Starting new HTTP connection (1): api.wunderground.com
+2017-12-21 21:21:11,009 - DEBUG - http://api.wunderground.com:80 "GET /api/f77ce6503c744246/forecast10day/q/FL/Gainesville.json HTTP/1.1" 200 2282
+2017-12-21 21:21:11,010 - DEBUG - Response: 200
+2017-12-21 21:28:31,988 - INFO - Starting weather
+2017-12-21 21:28:31,988 - INFO - Fetching Gainesville weather.
+2017-12-21 21:28:32,038 - DEBUG - Starting new HTTP connection (1): api.wunderground.com
+2017-12-21 21:28:32,276 - DEBUG - http://api.wunderground.com:80 "GET /api/f77ce6503c744246/forecast10day/q/FL/Gainesville.json HTTP/1.1" 200 2276
+2017-12-21 21:28:32,277 - DEBUG - Response: 200
+2017-12-21 21:28:39,571 - INFO - Starting weather
+2017-12-21 21:28:39,571 - INFO - Fetching Gainesville weather.
+2017-12-21 21:28:39,580 - DEBUG - Starting new HTTP connection (1): api.wunderground.com
+2017-12-21 21:28:39,796 - DEBUG - http://api.wunderground.com:80 "GET /api/f77ce6503c744246/forecast10day/q/FL/Gainesville.json HTTP/1.1" 200 2276
+2017-12-21 21:28:39,797 - DEBUG - Response: 200
+2017-12-21 21:28:45,926 - INFO - Starting weather
+2017-12-21 21:28:45,926 - INFO - Fetching Gainesville weather.
+2017-12-21 21:28:45,975 - DEBUG - Starting new HTTP connection (1): api.wunderground.com
+2017-12-21 21:28:46,237 - DEBUG - http://api.wunderground.com:80 "GET /api/f77ce6503c744246/forecast10day/q/FL/Gainesville.json HTTP/1.1" 200 2282
+2017-12-21 21:28:46,239 - DEBUG - Response: 200
+2017-12-21 21:44:10,301 - INFO - Starting weather
+2017-12-21 21:44:10,301 - INFO - Fetching Gainesville weather.
+2017-12-21 21:44:10,349 - DEBUG - Starting new HTTP connection (1): api.wunderground.com
+2017-12-21 21:44:10,597 - DEBUG - http://api.wunderground.com:80 "GET /api/f77ce6503c744246/forecast10day/q/FL/Gainesville.json HTTP/1.1" 200 2294
+2017-12-21 21:44:10,599 - DEBUG - Response: 200
+2017-12-21 21:48:53,667 - INFO - Starting weather
+2017-12-21 21:48:53,667 - INFO - Fetching Gainesville weather.
+2017-12-21 21:48:53,715 - DEBUG - Starting new HTTP connection (1): api.wunderground.com
+2017-12-21 21:48:53,967 - DEBUG - http://api.wunderground.com:80 "GET /api/f77ce6503c744246/forecast10day/q/FL/Gainesville.json HTTP/1.1" 200 2294
+2017-12-21 21:48:53,968 - DEBUG - Response: 200
+2017-12-21 21:49:00,507 - INFO - Starting weather
+2017-12-21 21:49:00,507 - INFO - Fetching Gainesville weather.
+2017-12-21 21:49:00,515 - DEBUG - Starting new HTTP connection (1): api.wunderground.com
+2017-12-21 21:49:00,709 - DEBUG - http://api.wunderground.com:80 "GET /api/f77ce6503c744246/forecast10day/q/FL/Gainesville.json HTTP/1.1" 200 2294
+2017-12-21 21:49:00,711 - DEBUG - Response: 200
+2017-12-21 21:49:08,224 - INFO - Starting weather
+2017-12-21 21:49:08,224 - INFO - Fetching Gainesville weather.
+2017-12-21 21:49:08,272 - DEBUG - Starting new HTTP connection (1): api.wunderground.com
+2017-12-21 21:49:08,468 - DEBUG - http://api.wunderground.com:80 "GET /api/f77ce6503c744246/forecast10day/q/FL/Gainesville.json HTTP/1.1" 200 2294
+2017-12-21 21:49:08,470 - DEBUG - Response: 200
+2017-12-21 21:49:14,947 - INFO - Starting weather
+2017-12-21 21:49:14,947 - INFO - Fetching Gainesville weather.
+2017-12-21 21:49:14,956 - DEBUG - Starting new HTTP connection (1): api.wunderground.com
+2017-12-21 21:49:15,185 - DEBUG - http://api.wunderground.com:80 "GET /api/f77ce6503c744246/forecast10day/q/FL/Gainesville.json HTTP/1.1" 200 2282
+2017-12-21 21:49:15,186 - DEBUG - Response: 200
+2017-12-21 21:51:35,560 - INFO - Starting weather
+2017-12-21 21:51:35,560 - INFO - Fetching Gainesville weather.
+2017-12-21 21:51:35,609 - DEBUG - Starting new HTTP connection (1): api.wunderground.com
+2017-12-21 21:51:35,856 - DEBUG - http://api.wunderground.com:80 "GET /api/f77ce6503c744246/forecast10day/q/FL/Gainesville.json HTTP/1.1" 200 2294
+2017-12-21 21:51:35,857 - DEBUG - Response: 200
+2017-12-21 21:51:54,010 - INFO - Starting weather
+2017-12-21 21:51:54,010 - INFO - Fetching Gainesville weather.
+2017-12-21 21:51:54,067 - DEBUG - Starting new HTTP connection (1): api.wunderground.com
+2017-12-21 21:51:54,263 - DEBUG - http://api.wunderground.com:80 "GET /api/f77ce6503c744246/forecast10day/q/FL/Gainesville.json HTTP/1.1" 200 2294
+2017-12-21 21:51:54,265 - DEBUG - Response: 200
+2017-12-21 21:52:08,374 - INFO - Starting weather
+2017-12-21 21:52:08,374 - INFO - Fetching Gainesville weather.
+2017-12-21 21:52:08,422 - DEBUG - Starting new HTTP connection (1): api.wunderground.com
+2017-12-21 21:52:08,593 - DEBUG - http://api.wunderground.com:80 "GET /api/f77ce6503c744246/forecast10day/q/FL/Gainesville.json HTTP/1.1" 200 2294
+2017-12-21 21:52:08,595 - DEBUG - Response: 200
+2017-12-21 21:52:11,384 - INFO - Starting weather
+2017-12-21 21:52:11,384 - INFO - Fetching Gainesville weather.
+2017-12-21 21:52:11,393 - DEBUG - Starting new HTTP connection (1): api.wunderground.com
+2017-12-21 21:52:11,531 - DEBUG - http://api.wunderground.com:80 "GET /api/f77ce6503c744246/forecast10day/q/FL/Gainesville.json HTTP/1.1" 200 2294
+2017-12-21 21:52:11,533 - DEBUG - Response: 200
+2017-12-21 22:06:58,308 - INFO - Starting weather
+2017-12-21 22:06:58,309 - INFO - Fetching Gainesville weather.
+2017-12-21 22:06:58,361 - DEBUG - Starting new HTTP connection (1): api.wunderground.com
+2017-12-21 22:06:58,597 - DEBUG - http://api.wunderground.com:80 "GET /api/f77ce6503c744246/forecast10day/q/FL/Gainesville.json HTTP/1.1" 200 2304
+2017-12-21 22:06:58,599 - DEBUG - Response: 200
